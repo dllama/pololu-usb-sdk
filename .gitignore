@@ -34,3 +34,9 @@ UsbAvrProgrammer/PgmCmd/PgmCmd
 /SimpleMotorController/SmcCmd/obj
 /SimpleMotorController/SmcExample1/bin/Debug
 /SimpleMotorController/SmcExample1/obj
+/SimpleMotorController/Smc.Core/obj
+/UsbAvrProgrammer/.vs/UsbAvrProgrammer/v15/Server/sqlite3
+/SimpleMotorController/.vs/Smc/DesignTimeBuild
+/SimpleMotorController/Smc.Standard/bin/Debug/netstandard2.0
+/SimpleMotorController/Smc.Standard/obj
+/UsbAvrProgrammer/.vs/UsbAvrProgrammer/v15
