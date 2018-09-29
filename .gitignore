@@ -40,3 +40,8 @@ UsbAvrProgrammer/PgmCmd/PgmCmd
 /SimpleMotorController/Smc.Standard/bin/Debug/netstandard2.0
 /SimpleMotorController/Smc.Standard/obj
 /UsbAvrProgrammer/.vs/UsbAvrProgrammer/v15
+/SimpleMotorController/Smc/bin/Release
+/SimpleMotorController/Smc.Standard/bin/Release/netstandard2.0
+/SimpleMotorController/SmcCmd/bin/Release
+/SimpleMotorController/SmcExample1/bin/Release
+/SimpleMotorController/SmcExample2/bin/Release
