@@ -57,10 +57,10 @@
     <Compile Include="Smc.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="UsbWrapper">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\UsbWrapper_Windows\UsbWrapper.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\..\UsbWrapper_Windows\UsbWrapper.csproj">
+      <Project>{d8464683-fa15-4c16-b675-e41dde30b714}</Project>
+      <Name>UsbWrapper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

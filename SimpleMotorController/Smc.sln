@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmcExample1", "SmcExample1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmcExample2", "SmcExample2\SmcExample2.csproj", "{379F1DA7-7AA7-4DCE-8937-9456B40C9896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smc.Standard", "Smc.Standard\Smc.Standard.csproj", "{5FF6206F-C3D7-4E97-A968-567C65B769BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smc.Standard", "Smc.Standard\Smc.Standard.csproj", "{5FF6206F-C3D7-4E97-A968-567C65B769BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbWrapper", "..\UsbWrapper_Windows\UsbWrapper.csproj", "{D8464683-FA15-4C16-B675-E41DDE30B714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{5FF6206F-C3D7-4E97-A968-567C65B769BF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5FF6206F-C3D7-4E97-A968-567C65B769BF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{5FF6206F-C3D7-4E97-A968-567C65B769BF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D8464683-FA15-4C16-B675-E41DDE30B714}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

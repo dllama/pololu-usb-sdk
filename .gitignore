@@ -45,3 +45,10 @@ UsbAvrProgrammer/PgmCmd/PgmCmd
 /SimpleMotorController/SmcCmd/bin/Release
 /SimpleMotorController/SmcExample1/bin/Release
 /SimpleMotorController/SmcExample2/bin/Release
+/SimpleMotorController/Smc.Standard/bin/x86/Debug/netstandard2.0
+/UsbWrapper.Standard/.vs/UsbWrapper
+/UsbWrapper.Standard/bin
+/UsbWrapper.Standard/obj
+/UsbWrapper_Windows/.vs/UsbWrapper
+/UsbWrapper_Windows/bin
+/UsbWrapper_Windows/obj
